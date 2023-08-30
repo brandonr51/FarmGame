@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a44df922c40df4fa80e23de1480e3f, type: 3}
+  m_Name: All
+  m_EditorClassIdentifier: 
+  m_ID: 1782535963
+  m_ParentsData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes:
+    - 1880721659674959436
+    - -6413720189105090579
+    m_ValuePositions: 0000000004000000
+    m_Values: 
+    m_UnityObjects: []
+    m_Version: 3.2
+  m_ChildrenData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes:
+    - 1880721659674959436
+    - -6413720189105090579
+    - -8766885340741805219
+    m_ValuePositions: 000000000400000008000000
+    m_Values: "\x01"
+    m_UnityObjects:
+    - {fileID: 11400000, guid: d2222cbb3e86c7342bc25c164b85a98c, type: 2}
+    m_Version: 3.2
+  m_ElementsData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemDefinition,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes:
+    - 1880721659674959436
+    - -2344963695676738622
+    m_ValuePositions: 0000000004000000
+    m_Values: 
+    m_UnityObjects: []
+    m_Version: 3.2
+  m_IsAbstract: 0
+  m_Color:
+    r: 0.85588825
+    g: 0.4007023
+    b: 0.59366804
+    a: 1
+  m_EditorIcon: {fileID: 0}
+  m_Dirty: 0
+  m_ItemCategoryAttributeCollection:
+    m_AttributeCollectionData: []
+    m_Dirty: 0
+  m_RequiredItemDefinitionAttributes:
+    m_AttributeCollectionData:
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - 7545631524636851605
+      - 2124561605454843865
+      m_ValuePositions: 000000000b0000000c0000000c0000001000000010000000140000006e000000
+      m_Values: Description
+      m_UnityObjects: []
+      m_Version: 3.2
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Sprite,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - -424237675821333841
+      - -5845307595003341581
+      m_ValuePositions: 0000000004000000050000000500000009000000090000000d00000011000000
+      m_Values: "Icon\x01\x01"
+      m_UnityObjects: []
+      m_Version: 3.2
+    m_Dirty: 0
+  m_RequiredItemAttributes:
+    m_AttributeCollectionData: []
+    m_Dirty: 0
+  m_IsMutable: 1
+  m_IsUnique: 1

@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ac5fa5da8102b468a92c21620db0d0, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  m_ID: 1370437699
+  m_Category: {fileID: 11400000, guid: d2222cbb3e86c7342bc25c164b85a98c, type: 2}
+  m_Parent: {fileID: 0}
+  m_ChildrenData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemDefinition,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes:
+    - 1880721659674959436
+    - -2344963695676738622
+    m_ValuePositions: 0000000004000000
+    m_Values: 
+    m_UnityObjects: []
+    m_Version: 3.2
+  m_ItemDefinitionAttributeCollection:
+    m_AttributeCollectionData:
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - 7545631524636851605
+      - 2124561605454843865
+      m_ValuePositions: 000000000b0000000c0000000c00000010000000100000001400000024000000
+      m_Values: "Description\x01\x01"
+      m_UnityObjects: []
+      m_Version: 3.2
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Sprite,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - -424237675821333841
+      - -5845307595003341581
+      m_ValuePositions: 0000000004000000050000000500000009000000090000000d00000011000000
+      m_Values: "Icon\x01\x01"
+      m_UnityObjects:
+      - {fileID: 4773600122041589606, guid: 12ab13dfdcd42254db7df2308b7102b1, type: 3}
+      - {fileID: 4773600122041589606, guid: 12ab13dfdcd42254db7df2308b7102b1, type: 3}
+      m_Version: 3.2
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[PlantSO,
+        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - 4583515704231184780
+      - -837554214950822960
+      m_ValuePositions: 000000000700000008000000080000000c0000000c0000001000000014000000
+      m_Values: "PlantSO\x01\x01"
+      m_UnityObjects:
+      - {fileID: 11400000, guid: c808ce9297f602f4aa62fac1de7668ba, type: 2}
+      - {fileID: 11400000, guid: c808ce9297f602f4aa62fac1de7668ba, type: 2}
+      m_Version: 3.2
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      m_ValueHashes: 
+      m_LongValueHashes:
+      - 2962116551004323853
+      - -7721361197739576997
+      - -585676703175709176
+      - 3517719142606826292
+      - 6353095047514310388
+      - 5883565134692778664
+      - 7545631524636851605
+      - 2124561605454843865
+      m_ValuePositions: 0000000004000000050000000500000009000000090000000d00000013000000
+      m_Values: "Name\x01\x01"
+      m_UnityObjects: []
+      m_Version: 3.2
+    m_Dirty: 1
+  m_DefaultItem:
+    m_ID: 141444420
+    m_Name: Tomato
+    m_ItemDefinitionID: 1370437699
+    m_ItemDefinition: {fileID: 11400000}
+    m_ItemAttributeCollection:
+      m_AttributeCollectionData: []
+      m_Dirty: 0
+  m_EditorIcon: {fileID: 4773600122041589606, guid: 12ab13dfdcd42254db7df2308b7102b1,
+    type: 3}
+  m_Dirty: 0
